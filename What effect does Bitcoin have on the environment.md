@@ -14,6 +14,9 @@ Compare this to gold. Gold has to be physically transported, stored, and secured
 
 Because Bitcoin is fully digital, this allows us to observe and record fine-grained details about its usage. We can “look inside” bitcoin and see every transaction, every online node, see the network’s difficulty level and hashrate, and from all the data estimate its energy usage.
 
+![image](https://user-images.githubusercontent.com/20099374/162961434-6b1dc42c-01f0-4079-a080-30473a6ac7b2.png)
+
+
 Bitcoin mining is most profitable when cheap energy is used, and there is nothing cheaper than energy that would otherwise be completely wasted. In this way, Bitcoin is a boon for the environment. Here are two reasons why:
 
 1. STABILIZING RENEWABLE ENERGY
@@ -27,3 +30,5 @@ Bitcoin mining is most profitable when cheap energy is used, and there is nothin
 - Exxon Mobil has been piloting this very program for a year and has since expanded the operation.+
 
 In the US, Bitcoin mining companies have formed The Bitcoin Mining Council to record and share information on energy usage. In their latest report they show that **58% of the energy used by bitcoin miners worldwide is renewable energy. If Bitcoin were a country, it would be the greenest country in the world**.
+
+![image](https://user-images.githubusercontent.com/20099374/162961465-a1852813-24a0-4866-af51-6f2ad828a522.png)
