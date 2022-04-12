@@ -20,5 +20,6 @@ Proof of work is one of Bitcoin’s major technological leaps, but it may also b
 
 Finally, consider the amount of energy required to back government paper currencies (see illustrative images below). Bitcoin is magnitudes more efficient.
 
+![image](https://user-images.githubusercontent.com/20099374/162960737-bb553c07-8377-4898-b4ed-b6a1fbcf0f26.png)
 
 
