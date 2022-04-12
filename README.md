@@ -12,4 +12,4 @@ For each question, a short, few-sentence answer is provided, followed by a longe
 
 Please contribute by proof reading the material, putting yourself in the shoes of a truck driver, dentist, mom, politician, or friend. What are the fewest, most easily digestible bits of information that can have the greatest impact?
 
-<a href="https://electricmoney.org><img width="1577" alt="home" src="https://user-images.githubusercontent.com/20099374/162959006-a66189fb-2d06-4709-8c1e-70d05ad09371.png"></a>
+<a href="https://electricmoney.org"><img width="1577" alt="home" src="https://user-images.githubusercontent.com/20099374/162959006-a66189fb-2d06-4709-8c1e-70d05ad09371.png"></a>
