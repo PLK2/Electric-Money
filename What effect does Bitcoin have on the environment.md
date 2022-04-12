@@ -32,3 +32,6 @@ Bitcoin mining is most profitable when cheap energy is used, and there is nothin
 In the US, Bitcoin mining companies have formed The Bitcoin Mining Council to record and share information on energy usage. In their latest report they show that **58% of the energy used by bitcoin miners worldwide is renewable energy. If Bitcoin were a country, it would be the greenest country in the world**.
 
 ![image](https://user-images.githubusercontent.com/20099374/162961465-a1852813-24a0-4866-af51-6f2ad828a522.png)
+
+***
+https://electricmoney.org/what-effect-does-bitcoin-have-on-the-environment/
