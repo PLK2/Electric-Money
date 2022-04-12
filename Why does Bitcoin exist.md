@@ -1,9 +1,9 @@
 # Why does Bitcoin exist?
 
-### Short Answer
+### Short Answer (< 3 sentences)
 The promise of Bitcoin is to provide us with a better, fairer money. Bitcoin was released amidst the Great Financial Crisis, when the chasm between the Top 1% and Bottom 99% grew rapidly and the fragility of our financial system was revealed yet again. Bitcoin promises to help stabilize our economy, reverse decades of neglect of the lower- and middle-economic classes, and provide everyone with a means to save their life’s work in a secure currency.
 
-### Long Answer
+### Long Answer (< 3 minutes)
 Our current monetary system has major problems:
 
 - **Inflation** (policy set by central banks, i.e., “money printing”). Since the U.S. Federal Reserve was founded in 1913, the purchasing power+ of the US dollar has declined over 95%.+ The Fed’s own mandate is for 2% annual inflation rate, but that means the purchasing power of the dollar is programmed to cut in half at least every 35 years. This incentivizes spending and disincentivizes saving.
@@ -17,3 +17,5 @@ Aside from fixing the financial system we have now, Bitcoin is one of the greate
 
 If everyone in the world were honest, if every nation were to never start a war, if every person was given a fair and equitable chance, Bitcoin wouldn’t be necessary. But history shows us that **Bitcoin is necessary; it converts energy into an honest, safe, and equitable money**. That’s something worth investing in.
 
+***
+https://electricmoney.org/why-does-bitcoin-exist/
