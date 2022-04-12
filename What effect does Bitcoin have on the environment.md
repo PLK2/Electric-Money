@@ -1,10 +1,10 @@
 # What effect does Bitcoin have on the environment?
 
-### Short answer (<3 sentences)
+### Short answer (< 3 sentences)
 Bitcoin’s energy use is transparent and measurable; currently, almost half is from renewable sources. Importantly, Bitcoin is uniquely positioned to aid in our transition to renewable energy because it can help stabilize the power grid. By bringing Bitcoin to the source of power, we can more efficiently bring the power to us; this is a major technological leap in human history and could help bring energy access to every person in the world.
 
 
-### Long answer (<3 min.)
+### Long answer (< 3 min.)
 Bitcoin is transforming (and could completely replace) our existing financial system. Therefore, to accurately asses Bitcoin’s net impact on the environment we should compare apples to apples: Bitcoin’s energy consumption to that of our existing financial system’s. It turns out that **Bitcoin is a far more efficient alternative**.
 
 
