@@ -1,9 +1,9 @@
 # Why does Bitcoin use so much energy?
 
-### Short answer
+### Short answer (< 3 sentences)
 Bitcoin is literally backed by energy. The expenditure of energy is the critical ingredient for a fair, digital currency because it forces everyone to play by the same rules (energy can’t be printed by central banks or gamed by politicians). This is accomplished through “Proof of Work” which is Bitcoin’s major innovation.
 
-### Long answer
+### Long answer (< 3 minutes)
 Every unit of energy spent on the Bitcoin network does the following:
 
 Ensures everyone follows Bitcoin’s protocol (i.e., its monetary policy)
@@ -22,4 +22,5 @@ Finally, consider the amount of energy required to back government paper currenc
 
 ![image](https://user-images.githubusercontent.com/20099374/162960737-bb553c07-8377-4898-b4ed-b6a1fbcf0f26.png)
 
-
+***
+https://electricmoney.org/why-does-bitcoin-use-so-much-energy/
