@@ -1,6 +1,6 @@
 # About
 
-Proof of work may be Bitcoin's most least understood concept. *"Why can't we just change the code to make it more energy friendly?"* The answer to that question is best discovered by the questioner themselves. This website -- https://ElectricMoney.org -- can help them along in that process. **This is a simple, plain-language, first-stop explainer for your normy friends who just don't quite get it.** It falls somewhere between a headline and an academic paper and requires a person simply take the time to click the link and perhaps read just a few short sentences; that may be enough to plant the seed.
+Proof of work may be Bitcoin's most least understood concept. *"Why can't we just change the code to make it more energy friendly?"* The answer to that question is best discovered by the questioner themselves. This website -- https://ElectricMoney.org -- can help them along in that process. **This is a simple, plain-language, first-stop explainer for your normy friends who just don't quite get it.** It falls somewhere between a headline and an academic paper. It requires a person simply take the time to click the link and perhaps read just a few short sentences; that may be enough to plant the seed.
 
 The website covers only three questions:
 1. **Why does Bitcoin exist?**
